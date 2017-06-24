@@ -26,3 +26,7 @@ Lighting and sound effects for deadpool model
 ## Electronics Design
 
 ![Electronics Design](https://github.com/grahame-github/modelfx/blob/master/images/modelfx%20design.jpg)
+
+## End Result
+
+![Completed Video](https://github.com/grahame-github/modelfx/blob/master/video/Finished%20Deadpool%20fx.MOV)
