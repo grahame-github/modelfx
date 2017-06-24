@@ -29,4 +29,4 @@ Lighting and sound effects for deadpool model
 
 ## End Result
 
-![Completed Video](https://github.com/grahame-github/modelfx/blob/master/video/Finished%20Deadpool%20fx.MOV)
+[Completed Video](https://github.com/grahame-github/modelfx/blob/master/video/Finished%20Deadpool%20fx.MOV)
